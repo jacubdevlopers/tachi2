@@ -1,0 +1,1 @@
+com.jacubdevlopers_app2.tachiyomimangaapptips
